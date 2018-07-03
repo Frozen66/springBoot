@@ -1,0 +1,7 @@
+server:
+  port: 8080
+girl:
+  beauty: cute
+  age: 20
+#content: "beauty:${beauty},age:${age}"
+
